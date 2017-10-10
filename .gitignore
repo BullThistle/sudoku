@@ -1,0 +1,5 @@
+.nyc_output/
+bower_components/
+coverage/
+node_modules/
+tmp/
